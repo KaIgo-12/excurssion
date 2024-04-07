@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+
+}
+* {
+    color: white;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: white;
+    margin: 0 auto;
+    max-width:fit-content;
+    font-size: 50px;
+    font-weight: normal;
+}
+span {
+    color: skyblue;
+    position: relative;
+    left: 40%;
+    text-decoration: underline;
+}
+div {
+    text-align: center;
+}
+p {
+    text-align: center;
+    display:block;
+    color: gray;
+}
+div {
+    color: skyblue;
+}
+#footer {
+    color: gray;
+    text-align: right;
+    display: block;
+}
